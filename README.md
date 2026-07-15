@@ -42,3 +42,5 @@ Hardware: NVIDIA Jetson Developer Kit, USB Webcam 👽
 Software: Jetson-Inference, PyTorch for model training 🥶
 
 Model: ResNet-18 (ONNX) 💀🤖
+
+Click this link for a video tutorio: (not made yet)
