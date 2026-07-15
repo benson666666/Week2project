@@ -44,6 +44,13 @@ python3 smart_medicine.py
 ```
 （will show some system message)
 
+see live video by enter this on your browser
+
+
+```bash
+your orin ip:8554
+```
+
 
 Hardware: NVIDIA Jetson Developer Kit, USB Webcam 👽
 
