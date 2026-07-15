@@ -12,7 +12,11 @@ key feature: 👽👺
 
 2, 1.5second automatic accessible detect: This system is Specially designed for visually impaired users. The system runs in a continuous loop, automatically capturing and processing camera frames every 1.5 seconds without manual control. 🥳😡🤬
 
-3, Real Safety Guide: Upon successful detection, the system immediately outputs clear directions, safety warnings, and usage guidelines in the terminal to prevent accidental misuse. 😤😰
+3, You may also press [Enter] to detect anytime!
+
+4, Real Safety Guide: Upon successful detection, the system immediately outputs clear directions, safety warnings, and usage guidelines in the terminal to prevent accidental misuse. 😤😰
+
+
 
 Project Structure 🥸💥
 
