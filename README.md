@@ -1,5 +1,10 @@
 # AI powered super smart medicine detector 🤑💀
 A AI medicine detector, good for old people. This system developed on NVIDIA jetson orin, using the jetson-inference deep learning framework. This project is using high precision image classification net to help visually impaired person, like elder😱😱🥶☠️
+<img width="1425" height="1082" alt="image" src="https://github.com/user-attachments/assets/aa740656-834c-45ee-b9d6-a1c73e9a3191" />
+<img width="667" height="215" alt="image" src="https://github.com/user-attachments/assets/55b41bc2-9084-445e-abe0-8e6f762000b6" />
+
+
+
 
 key feature: 👽👺
 
