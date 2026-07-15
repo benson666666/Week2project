@@ -16,6 +16,29 @@ key feature: 👽👺
 
 4, Real Safety Guide: Upon successful detection, the system immediately outputs clear directions, safety warnings, and usage guidelines in the terminal to prevent accidental misuse. 😤😰
 
+detectable medicine include 
+
+Alaxan
+
+Bactidol
+
+Bioflu
+
+Biogesic
+
+DayZinc
+
+Decolgen
+
+Fish Oil
+
+Kremil S
+
+Medicol
+
+Neozep
+
+
 
 
 Project Structure 🥸💥
