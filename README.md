@@ -2,6 +2,7 @@
 A AI medicine detector, good for old people. This system developed on NVIDIA jetson orin, using the jetson-inference deep learning framework. This project is using high precision image classification net to help visually impaired person, like elder😱😱🥶☠️
 
 key feature: 👽👺
+
 1, High precision image classification: this system identify target medication like fish oil with confidence about 99%-100% 😎🤠
 
 2, 1.5second automatic accessible detect: This system is Specially designed for visually impaired users. The system runs in a continuous loop, automatically capturing and processing camera frames every 1.5 seconds without manual control. 🥳😡🤬
