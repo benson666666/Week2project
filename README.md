@@ -32,7 +32,9 @@ Week2project/
 
 
 Make sure your jetson-inference environment is fully configured, then you can launch the AI powered super smart medicine detector program by using the following command: 👺
-python3 smart_medicine.py
+
+
+python3 smart_medicine.py         （will show some system message)
 
 
 Hardware: NVIDIA Jetson Developer Kit, USB Webcam 👽
