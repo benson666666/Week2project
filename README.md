@@ -85,4 +85,5 @@ Software: Jetson-Inference, PyTorch for model training 🥶
 
 Model: ResNet-18 (ONNX) 💀🤖
 
-Click this link for a video tutorio: (not made yet)
+Click this link for a video tutorio: (https://drive.google.com/file/d/1ZtD3hsYW0jimXbTHGHKhauclCDDTflLY/view?usp=sharing)
+
